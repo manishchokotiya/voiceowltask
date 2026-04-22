@@ -45,7 +45,7 @@ src/
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/manishchokotiya/voiceowltask
 cd conversation-service
 ```
 
@@ -66,8 +66,7 @@ Create a `.env` file in root:
 ```
 PORT=3000
 MONGO_URI=mongodb://localhost:27017/conversation
-DEFAULT_PAGE=1
-DEFAULT_LIMIT=10
+
 ```
 
 ---
