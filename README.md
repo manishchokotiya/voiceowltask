@@ -46,7 +46,7 @@ src/
 
 ```
 git clone https://github.com/manishchokotiya/voiceowltask
-cd conversation-service
+cd voiceowltask
 ```
 
 ---
